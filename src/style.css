@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.display{
+    position: absolute;
+    top: 0; 
+    left: 0;
+    overflow: hidden;
+}
+
+html, body{
+    outline: none;
+}
